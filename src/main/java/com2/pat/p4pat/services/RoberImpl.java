@@ -33,7 +33,6 @@ public class RoberImpl implements MarsRober{
 
         log.info("Status code: " + result.getStatusCode());
 
-        //Error handler for empty response
         /*
         ObjectMapper mapper = new ObjectMapper();
         JsonNode root = mapper.readTree(result.getBody());
