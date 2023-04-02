@@ -17,4 +17,4 @@ Como se ha mencionado anteriormente, se puede comprobar el estado del servidor e
 
 ### Loggers
 
-Adicionalmente, se han dispuesto *Loggers* por toda la aplicación para llevar un seguimiento detallado de todos los procesos internos que se llevan a cabo en cada uno de las llamadas.
+Adicionalmente, se han dispuesto **Loggers** por toda la aplicación para llevar un seguimiento detallado de todos los procesos internos que se llevan a cabo en cada uno de las llamadas.
