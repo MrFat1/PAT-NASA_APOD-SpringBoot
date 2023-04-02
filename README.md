@@ -15,4 +15,6 @@ Desde JavaScript se realiza un POST al servidor en el que se envían los datos d
 ## HealthCheck
 Como se ha mencionado anteriormente, se puede comprobar el estado del servidor en este controlador.
 
-Adicionalmente, se han dispuesto Loggers por toda la aplicación para llevar un seguimiento detallado de todos los procesos internos que se llevan a cabo en cada uno de las llamadas.
+### Loggers
+
+Adicionalmente, se han dispuesto *Loggers* por toda la aplicación para llevar un seguimiento detallado de todos los procesos internos que se llevan a cabo en cada uno de las llamadas.
