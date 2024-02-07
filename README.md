@@ -1,4 +1,4 @@
-# Practica4-PAT
+# PAT - Llamada a APOD mediante servidor de SpringBoot
 
 Esta práctica mejora la práctica anterior (LLamada a la API de la NASA) para que levante un servidor de Spring Boot donde se llevará a cabo toda la lógica de llamada a la API.
 
